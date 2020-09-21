@@ -1,0 +1,68 @@
+/*
+ Theme Name:   Twenty Twenty Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Twenty Bloc-k Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentytwentychild
+*/
+
+/*Fonts*/
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.author-description .author-link,
+.comment-metadata,
+.comment-reply-link,
+.comments-title,
+.comment-author .fn,
+.discussion-meta-info,
+.entry-meta,
+.entry-footer,
+.main-navigation,
+.no-comments,
+.not-found .page-title,
+.error-404 .page-title,
+.post-navigation .post-title,
+.page-links,
+.page-description,
+.pagination .nav-links,
+.sticky-post,
+.site-title,
+.site-info,
+#cancel-comment-reply-link,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: BlocK, sans-serif;
+}
+
+.entry-content h1,
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content h6,
+.entry-content cite,
+.entry-content figcaption,
+.entry-content table,
+.entry-content address,
+.entry-content .wp-caption-text,
+.entry-content .wp-block-file {
+  font-family: BlocK, sans-serif;
+}
+
+.entry-content p {
+  font-family: "Lato", sans-serif;
+  letter-spacing: normal;
+}
